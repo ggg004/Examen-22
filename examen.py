@@ -44,7 +44,8 @@ if producto==1:
         print("Producto seleccionado: Alfajor")
         print("Precio: $700")
         print("Compra realizada correctamente.")
-        print("Saldo restante"),dinero_disponible
+        print("Saldo restante")
+        print(dinero_disponible)
     else:
         print("Saldo insuficiente para realizar esta compra.")
 elif producto==2:
@@ -60,7 +61,8 @@ elif producto==2:
         print("Producto seleccionado: Agua")
         print("Precio: $900")
         print("Compra realizada correctamente.")
-        print("Saldo restante"),dinero_disponible
+        print("Saldo restante")
+        print(dinero_disponible)
     else:
         print("Saldo insuficiente para realizar esta compra.")
 else :
@@ -76,7 +78,8 @@ else :
         print("Producto seleccionado: Tostado")
         print("Precio: $2200")
         print("Compra realizada correctamente.")
-        print("Saldo restante"),dinero_disponible
+        print("Saldo restante")
+        print(dinero_disponible)
     else:
         print("Saldo insuficiente para realizar esta compra.")
 
